@@ -15,7 +15,7 @@ const Services = () => {
 
       {/* Course Images in Single Line */}
       <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-3 gap-6 place-items-center">
-        <Image src="/images/design1.png" alt="Design 1" width={200} height={200} className="rounded-lg" />
+        <Image src="/images/design-5.png" alt="Design 1" width={200} height={200} className="rounded-lg" />
         <Image src="/images/design2.png" alt="Design 2" width={200} height={200} className="rounded-lg" />
         <Image src="/images/desin3.png" alt="Design 3" width={200} height={200} className="rounded-lg" />
         <Image src="/images/design-4.png" alt="Design 4" width={200} height={200} className="rounded-lg" />
